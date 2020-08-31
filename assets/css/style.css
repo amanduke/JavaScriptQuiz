@@ -153,4 +153,18 @@ body{
     text-align: center;
 }
 
+.btn {
+    font-size: 12px;
+    text-align: center;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    float: left;
+    display: flex;
+}
 
+.btn:hover {
+    cursor: pointer;
+    box-shadow: gray;
+
+}
