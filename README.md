@@ -24,10 +24,10 @@
 
 
 # User Story
-![Screenshot](https://raw.githubusercontent.com/amanduke/password-generator/master/user-story.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/amanduke/javascriptquiz/master/images/user-story-jsquiz.png "Screenshot")
 
 # Acceptance Criteria
-![Screenshot](https://raw.githubusercontent.com/amanduke/password-generator/master/acceptance-criteria.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/amanduke/javascriptquiz/master/images/acceptance-criteria-jsquiz.png "Screenshot")
 
 # Installation
 You are required to submit BOTH of the following for review:
@@ -41,20 +41,18 @@ The URL of the GitHub repository. Give the repository a unique name and include 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Made using HTML, CSS, and JavaScript.
-
-Creating a password generator prompting the user to generate a password using symbols, numbers, and letters that is between 8 to 128 numbers long. If the user chooses a number above or below the constraints, an alert prompt will guide the user to choose correctly.
-A function will generate a random password array after the user clicks the final prompt question.
+Timed coding quiz made using CSS, JavaScript, and HTML.
 
 
 # Screenshot 
-![Screenshot](https://raw.githubusercontent.com/amanduke/password-generator/master/password-generator-screenshot.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/amanduke/javascriptquiz/master/images/jsquiz-screenshot1.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/amanduke/javascriptquiz/master/images/jsquiz-screenshot2.png "Screenshot")
 
 <!-- LICENSE -->
 ## Project Link
 
 
-Project Link: [https://amanduke.github.io/pw-generator/)
+Project Link: [https://amanduke.github.io/javascriptquiz/)
 
 
 <!-- ACKNOWLEDGEMENTS
